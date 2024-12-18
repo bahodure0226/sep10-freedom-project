@@ -1,4 +1,4 @@
-# Entry 3
+# Entry 3: Finalizing my content
 ##### X/X/XX
 
 Text
