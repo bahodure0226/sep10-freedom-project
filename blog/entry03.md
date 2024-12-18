@@ -1,5 +1,5 @@
-# Entry 3: Finalizing my content
-##### X/X/XX
+# Entry 3: Finalizing My Content
+##### 12/20/24
 
 Text
 
