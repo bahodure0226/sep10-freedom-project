@@ -7,6 +7,8 @@ In entry 2 I researched about technology within sports and discovered many ways 
   * [yaseenm](https://yaseenm8161.github.io/sep10-freedom-project/#about)
   * [josiahb](https://josiahb7308.github.io/sep10-freedom-project/)
 
+## Engineering Design Process
+I am currently finishing up the third stage of the engineering design process, brainstorming. I used my research from the previous blog as well as new sources from previous freedom projects to help me come up with ideas for the future. I have come up with a decent amount of future technological advances in sports and I am looking forward to the next stage.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
