@@ -47,7 +47,7 @@ div {
 }
 </style>
 ```
-When I saw what the `animation-timing`function` elements could do, it gave me so many ideas on how I could use them, I really like how they move at different speeds, and you can even control the speed by using the `cubic-bezier(n,n,n,n)` element where you set 4 different movement speeds from the start to the end of the animation.
+When I saw what the `animation-timing-function` elements could do, it gave me so many ideas on how I could use them, I really like how they move at different speeds, and you can even control the speed by using the `cubic-bezier(n,n,n,n)` element where you set 4 different movement speeds from the start to the end of the animation.
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
