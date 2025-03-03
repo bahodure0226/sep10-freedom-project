@@ -50,7 +50,9 @@ div {
 When I saw what the `animation-timing-function` elements could do, it gave me so many ideas on how I could use them, I really like how they move at different speeds, and you can even control the speed by using the `cubic-bezier(n,n,n,n)` element where you set 4 different movement speeds from the start to the end of the animation.
 
 ## Skills
-Some skills I learned while working on this entry are **coding**, **researching**, and **
+Some skills I learned while working on this entry are **effective tinkering**, **diverse researching**, and **realistic thinking**.
+I effectively tinkered by first **_reading_** and **_understanding_** the code that was shown and explained to me, then testing my knowledge of the code by creating something with it. I used the CSS Animation to create my own ideas and this helped me grasp each of the elements in my head. If I did not understand one of them, I would go on youtube or google, search for the exact code and find **_multiple_** different examples of how it can be used, this would give me a more accurate definition for the code because I am using not just one source but many different ones to help me shape my own ideas. I originally was very hyped up about my first tool, I tinkered with it for a long time and thought I would be using it, but when I actually sat down and thought about it, I realized that trying to use Aframe for my freedom project would be too much for me, I barely managed to recreate a few examples with the code which took me quite a while. I knew that I really liked it, but I had to let go of the tool because I also knew that I could not handle it just yet, and this helped me decide on something that was much more on my level of coding.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
