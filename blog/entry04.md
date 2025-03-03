@@ -22,7 +22,18 @@ div {
 }
 </style>
 ```
-
+This was just the start of CSS animation though, I continued to look through the lessons and tried to do something with each of the new elements that were shown to me. One of my favorite elements were these ones:
+```HTML
+#div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
+```
+When I saw what these elements could do, it gave me so many ideas on how I could use them, I really like how they move at different speeds, and you can even control the speed by using this:
+```HTML
+cubic-bezier(n,n,n,n)
+```
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
