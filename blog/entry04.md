@@ -2,7 +2,7 @@
 ##### 3/2/25
 
 ## My tool
-During the time between the last entry and this one, I was given many different coding tools to use. I originally chose Aframe because it seemed really cool to have 3d shapes that I could control to make models. After tinkering with that for a while I decided that it was too difficult for me so I chose my backup, Animate CSS. I tinkered with this tool on [W3Schools](https://www.w3schools.com/css/css3_animations.asp) and [FreeCodeCamp's](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design) Applied Visual Design lessons. At first I just read through the articles and clicked "try it yourself", this gave me an idea of how to use the tool. I then changed the code myself and created this little box that changes between colors as the animation begins and ends.
+During the time between the last entry and this one, I was given many different coding tools to use. I originally chose Aframe because it seemed really cool to have 3d shapes that I could control to make models. After tinkering with that for a while I decided that it was too difficult for me so I chose my backup, Animate CSS. I tinkered with this tool on [W3Schools](https://www.w3schools.com/css/css3_animations.asp) and [FreeCodeCamp's](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design) Applied Visual Design lessons. At first I just read through the articles and clicked "try it yourself", this gave me an idea of how to use the tool. I then changed the code myself and created this little box that changes between colors as the animation begins and ends:
 ```HTML
 <style> 
 div {
