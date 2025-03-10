@@ -6,10 +6,10 @@
 
 ### 3/8:
 * I went to [Animate.css](https://animate.style/)
-*  I looked through every aspect of Animate CSS and explored each of the examples
-*  I picked some that I liked
+ * I looked through every aspect of Animate CSS and explored each of the examples
+ * I picked some that I liked
 * I went to edit on github and tried some out on my own
- *  I took this code example below and started tinkering with it because I liked the rubber band animation
+ * I took this code example below and started tinkering with it because I liked the rubber band animation
  ```CSS
    @keyframes rubberBand {
   from {
