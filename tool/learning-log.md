@@ -49,3 +49,6 @@
   * I tested out the code and created my own little ideas with them
 * I went to [FCC](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
   * I completed the lessons on CSS Animations
+* I made a lot of progress getting familiar with CSS Animation elements
+* It is very tedious code so I had some challenges with keeping everything organized
+* Are there any shortcuts to using CSS Animation that would make it easier and faster to use?
