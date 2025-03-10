@@ -5,7 +5,8 @@
 ---
 
 ### 3/8:
-* Text
+* I went to [Animate.css](https://animate.style/)
+  * then
 
 ### X/X/XX:
 * Text
