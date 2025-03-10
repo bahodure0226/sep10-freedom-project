@@ -9,7 +9,8 @@
   * I looked through every aspect of Animate CSS and explored each of the examples
   * I picked some that I liked
 * I went to edit on github and tried some out on my own
- * ```CSS
+ * I took this code example below and started tinkering with it because I liked the rubber band animation
+ ```CSS
    @keyframes rubberBand {
   from {
     -webkit-transform: scale3d(1, 1, 1);
@@ -44,4 +45,4 @@
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
 ```
- * I took this code example above and started tinkering with it because I liked the rubber band animation
+
