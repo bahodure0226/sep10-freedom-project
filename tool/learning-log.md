@@ -45,4 +45,7 @@
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
 ```
-
+* I went to [W3schools](https://www.w3schools.com/css/css3_animations.asp) CSS Animations
+  * I tested out the code and created my own little ideas with them
+* I went to [FCC](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+  * I completed the lessons on CSS Animations
