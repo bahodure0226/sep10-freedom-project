@@ -44,3 +44,4 @@
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
 ```
+ * I took this code example above and started tinkering with it because I liked the rubber band animation
