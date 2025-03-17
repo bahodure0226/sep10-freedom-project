@@ -52,3 +52,10 @@
 * I made a lot of progress getting familiar with CSS Animation elements
 * It is very tedious code so I had some challenges with keeping everything organized
 * Are there any shortcuts to using CSS Animation that would make it easier and faster to use?
+
+### 3/16:
+* I didn't have much time to learn this week due to some personal things as well as sports, but I skimmed through [this video](https://www.youtube.com/watch?v=SgmNxE9lWcY) about basic CSS animations.
+  *  I learned about how to make buttons move when hovered over.
+* I also watched [this video](https://www.youtube.com/watch?v=z2LQYsZhsFw) about CSS animation properties.
+  *  I learned about transformations and changing shapes by changing the border radius.
+  * I tinkered a bit with CSS Animations once again so I wouldn't forget too much, but it was all minor tinkering and refreshing my memory, I did not do try too many new aspects of CSS animate this week.
