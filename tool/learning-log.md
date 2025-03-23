@@ -59,3 +59,12 @@
 * I also watched [this video](https://www.youtube.com/watch?v=z2LQYsZhsFw) about CSS animation properties.
   *  I learned about transformations and changing shapes by changing the border radius.
   * I tinkered a bit with CSS Animations once again so I wouldn't forget too much, but it was all minor tinkering and refreshing my memory, I did not do try too many new aspects of CSS animate this week.
+
+### 3/23: 
+* This week I wanted to see how others used CSS Animations to create projects.
+* I saw this [video](https://www.youtube.com/watch?v=aOI0fpahGr8)
+*   I noticed that some of the features are similar to bootstrap such as the collapse feature.
+* I clicked on [this link](https://blog.hubspot.com/website/css-animation-examples) about more CSS Animation examples
+*   This gave me some ideas and I tinkered a bit to test them.
+*   I learned how useful CSS Animation can be and what uses it has to it.
+* Overall, this week was mainly a research week rather than a tinker week, I wanted to just see other people's ideas and creations with CSS Animation so I can be inspired to make some of my own as well as find more uses for CSS Animation.
