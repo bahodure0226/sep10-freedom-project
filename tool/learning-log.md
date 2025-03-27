@@ -68,3 +68,8 @@
 *   This gave me some ideas and I tinkered a bit to test them.
 *   I learned how useful CSS Animation can be and what uses it has to it.
 * Overall, this week was mainly a research week rather than a tinker week, I wanted to just see other people's ideas and creations with CSS Animation so I can be inspired to make some of my own as well as find more uses for CSS Animation.
+
+### 3/28:
+*
+*
+*
