@@ -71,7 +71,8 @@
 
 ### 3/28:
 * I continued going through [W3schools](https://www.w3schools.com/css/css3_animations.asp)
-  *  I made this code:```CSS
+ * I made this code:
+```CSS
 @keyframes example {
   0% {rotate:72deg; background-color: red;}
   25% {rotate:144deg; background-color: yellow;}
@@ -87,5 +88,5 @@ div {
   animation-duration: 0.5s;
   animation-iteration-count:infinite;
 }
-  ```
+```
   
