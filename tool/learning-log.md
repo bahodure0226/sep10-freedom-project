@@ -89,4 +89,26 @@ div {
   animation-iteration-count:infinite;
 }
 ```
+* I learned how to use opacity, left, and width to make animations like moving text, and text that fades in.
+  * My tinkering for a div that comes into the center of the screen slowly as the word is coated with the color red
+    ```CSS
+    @keyframes example {
+  0% {opacity:0%; left:0%;width:0px;}
+  25% {opacity:10%; left:10%; width:100px;}
+  50% {opacity:20%;left:20%; width:200px;}
+  75% {opacity:30%; left:30%; width:300px;}
+  100% {opacity:100%; left:45%; width:500px;}
+}
+div {
+  font-size:100px;
+  text-align:center;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position:absolute;
+  animation-name: example;
+  animation-duration:1s;
+  animation-fill-mode:both;
+}
+    ```
   
