@@ -91,7 +91,7 @@ div {
 ```
 * I learned how to use opacity, left, and width to make animations like moving text, and text that fades in.
   * My tinkering for a div that comes into the center of the screen slowly as the word is coated with the color red
-    ```CSS
+```CSS
     @keyframes example {
   0% {opacity:0%; left:0%;width:0px;}
   25% {opacity:10%; left:10%; width:100px;}
@@ -110,5 +110,5 @@ div {
   animation-duration:1s;
   animation-fill-mode:both;
 }
-    ```
+```
   
