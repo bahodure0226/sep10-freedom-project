@@ -70,7 +70,7 @@
 * Overall, this week was mainly a research week rather than a tinker week, I wanted to just see other people's ideas and creations with CSS Animation so I can be inspired to make some of my own as well as find more uses for CSS Animation.
 
 ### 3/28:
-*I continued going through [W3schools](https://www.w3schools.com/css/css3_animations.asp)
+* I continued going through [W3schools](https://www.w3schools.com/css/css3_animations.asp)
 *  I made this code:
   ```CSS
 @keyframes example {
