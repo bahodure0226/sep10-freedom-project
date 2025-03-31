@@ -111,4 +111,9 @@ div {
   animation-fill-mode:both;
 }
 ```
-  
+* I had a lot more time to tinker and create some fun test examples this week because of the extra days we had in class to work
+* I still have some questions like how I can make my text fade in and fade out at certain points.
+* I can now use opacity for my animations to slowly make an element visible or invisible
+* I can keep certain properties of my animations like the beginning or the end using `animation-fill-mode`
+* I have not yet figured out shortcuts to make CSS faster to use, for example if I wanted to use `opacity` to make something appear as slowly as possible, id have to make 100 different percentages from 0-100, that would take a lot of work.
+* Next week I will look more for shortcuts on CSS rather than new codes to learn, I think overloading my brain with codes is not as effective as mastering the use of easier codes which I already have in my brain.
