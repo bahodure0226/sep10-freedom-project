@@ -117,3 +117,67 @@ div {
 * I can keep certain properties of my animations like the beginning or the end using `animation-fill-mode`
 * I have not yet figured out shortcuts to make CSS faster to use, for example if I wanted to use `opacity` to make something appear as slowly as possible, id have to make 100 different percentages from 0-100, that would take a lot of work.
 * Next week I will look more for shortcuts on CSS rather than new codes to learn, I think overloading my brain with codes is not as effective as mastering the use of easier codes which I already have in my brain.
+
+### 4/6
+* I worked with some more css animation examples and made my own demos of them.
+  * one code I tinkered with:
+```CSS
+#container {
+  color:#999;
+  text-transform: uppercase;
+  font-size:36px;
+  font-weight:bold;
+  padding-top:200px;  
+  position:fixed;
+  width:100%;
+  bottom:45%;
+  display:block;
+}
+
+#flip {
+  height:50px;
+  overflow:hidden;
+}
+
+#flip > div > div {
+  color:#fff;
+  padding:4px 12px;
+  height:45px;
+  margin-bottom:45px;
+  display:inline-block;
+}
+
+#flip div:first-child {
+  animation: show 5s linear infinite;
+}
+
+#flip div div {
+  background:#42c58a;
+}
+#flip div:first-child div {
+  background:#4ec7f3;
+}
+#flip div:last-child div {
+  background:#DC143C;
+}
+
+@keyframes show {
+  0% {margin-top:-270px;}
+  5% {margin-top:-180px;}
+  33% {margin-top:-180px;}
+  38% {margin-top:-90px;}
+  66% {margin-top:-90px;}
+  71% {margin-top:0px;}
+  99.99% {margin-top:0px;}
+  100% {margin-top:-270px;}
+}
+
+p {
+  position:fixed;
+  width:100%;
+  bottom:30px;
+  font-size:12px;
+  color:#999;
+  margin-top:200px;
+}
+```
