@@ -202,3 +202,5 @@ div {
   animation-iteration-count:infinite;
 }
 ```
+* I started exploring things that I wanted to use for my own freedom project, I found a few different codes that might fit well with my preferences for the project.
+* I am planning to make a cool intro for my project website and catch the attention of whoever views it so they will want to look through the rest of it.
