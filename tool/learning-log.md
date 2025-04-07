@@ -171,13 +171,34 @@ div {
   99.99% {margin-top:0px;}
   100% {margin-top:-270px;}
 }
-
-p {
-  position:fixed;
-  width:100%;
-  bottom:30px;
-  font-size:12px;
-  color:#999;
-  margin-top:200px;
+```
+* this code basically rotates between multiple different texts in one spot with a different color behind each of the text.
+* The next thing I did was try to make a cool looking code that bounces in, I made this welcome sign that shows up as a little animation that looks like its stretchy and bouncy.
+  * My animation:
+```CSS
+@keyframes test {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+div {
+  font-size:100px;
+  text-align:center;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position:absolute;
+  animation-name: test;
+  animation-duration:1.5s;
+  animation-fill-mode:both;
+  animation-iteration-count:infinite;
 }
 ```
