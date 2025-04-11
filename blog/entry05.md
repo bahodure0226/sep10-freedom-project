@@ -70,7 +70,9 @@ I really liked it but it seemed like a lot of work to do it the way they did, so
     top:70%;
   }
   ```
-I learned how to use CSS Animations on my own by watching certain videos like [this video]((https://www.youtube.com/watch?v=SgmNxE9lWcY) and [this one](https://www.youtube.com/watch?v=z2LQYsZhsFw). After watching these videos, I would try to replicate the results that they got with my knowledge of the code like I did in the example above, this helped me put my knowledge to use and also gave me opportunities to learn about new code if I could not figure out how to create what the example did.
+* I learned how to use CSS Animations on my own by watching certain videos like [this video]((https://www.youtube.com/watch?v=SgmNxE9lWcY) and [this one](https://www.youtube.com/watch?v=z2LQYsZhsFw). After watching these videos, I would try to replicate the results that they got with my knowledge of the code like I did in the example above, this helped me put my knowledge to use and also gave me opportunities to learn about new code if I could not figure out how to create what the example did.
+* I changed up some of the codes from examples I studied to see what part would change and to improve my understanding of the element, for example when I used `left` `right` `top` `bottom`, they had percentages on them and I kept changing it to see the effects, at first I thought it was how far it moves towards the direction it corresponds with. I then learned that it is actually how far away it pushes from said direction. `left:50%:` would move the element 50% away from the left side of the screen.
+* During this week we had a lot of free time to learn our tool
 ## Skills
 *
 
