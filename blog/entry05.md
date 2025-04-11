@@ -72,7 +72,58 @@ I really liked it but it seemed like a lot of work to do it the way they did, so
   ```
 * I learned how to use CSS Animations on my own by watching certain videos like [this video]((https://www.youtube.com/watch?v=SgmNxE9lWcY) and [this one](https://www.youtube.com/watch?v=z2LQYsZhsFw). After watching these videos, I would try to replicate the results that they got with my knowledge of the code like I did in the example above, this helped me put my knowledge to use and also gave me opportunities to learn about new code if I could not figure out how to create what the example did.
 * I changed up some of the codes from examples I studied to see what part would change and to improve my understanding of the element, for example when I used `left` `right` `top` `bottom`, they had percentages on them and I kept changing it to see the effects, at first I thought it was how far it moves towards the direction it corresponds with. I then learned that it is actually how far away it pushes from said direction. `left:50%:` would move the element 50% away from the left side of the screen.
-* During this week we had a lot of free time to learn our tool
+* During this week we had a lot of free time to learn our tool so I decided that I want to find an animation that is more flashy. I looked through a lot of examples and I tinkered with some to make this code:
+```CSS
+#container {
+  color:#999;
+  text-transform: uppercase;
+  font-size:36px;
+  font-weight:bold;
+  padding-top:200px;  
+  position:fixed;
+  width:100%;
+  bottom:45%;
+  display:block;
+}
+
+#flip {
+  height:50px;
+  overflow:hidden;
+}
+
+#flip > div > div {
+  color:#fff;
+  padding:4px 12px;
+  height:45px;
+  margin-bottom:45px;
+  display:inline-block;
+}
+
+#flip div:first-child {
+  animation: show 5s linear infinite;
+}
+
+#flip div div {
+  background:#42c58a;
+}
+#flip div:first-child div {
+  background:#4ec7f3;
+}
+#flip div:last-child div {
+  background:#DC143C;
+}
+
+@keyframes show {
+  0% {margin-top:-270px;}
+  5% {margin-top:-180px;}
+  33% {margin-top:-180px;}
+  38% {margin-top:-90px;}
+  66% {margin-top:-90px;}
+  71% {margin-top:0px;}
+  99.99% {margin-top:0px;}
+  100% {margin-top:-270px;}
+}
+```
 ## Skills
 *
 
