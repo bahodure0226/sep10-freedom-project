@@ -126,7 +126,7 @@ I really liked it but it seemed like a lot of work to do it the way they did, so
 ```
 * This code would make one block of text in between two others rotate between 3 different words. For example if I wanted it to say "Are you feeling `happy` `sad` `mad` today?" It would keep the "Are you feeling" and "today?" parts while rotating the middle text between `happy` `sad` and `mad`. I found this code incredibly interesting so I continued to tinker with it and change some properties. Overall these codes and processes I showed and explained are the ways that ive learned my tool and how ive learned my tool.
 ## Skills
-*
+*Some skills I improved on or learned in this entry are **collaboration**,**a growth mindset**, and **planning**. Although I was mainly working alone on learning CSS Animate and tinkering, sometimes it would be confusing and I would ask those around me for help, for example, even though my friend Ramses is working on a different tool, he is very smart and reliable so I was able to ask him for his opinion on some of my tinkerings, he would point on things that I had done wrong or could improve on which really helped me out. In return I would check out his A-frame code and try to give him advice even if I did not know much about A-frame. Throughout the time of me learning my tool, instead of only using what I already knew, I made up my mind to be immersed in the videos I watched and try to learn some new things  
 
 [Previous](entry04.md) | [Next](entry06.md)
 
