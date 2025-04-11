@@ -124,6 +124,7 @@ I really liked it but it seemed like a lot of work to do it the way they did, so
   100% {margin-top:-270px;}
 }
 ```
+* This code would make one block of text in between two others rotate between 3 different words. For example if I wanted it to say "Are you feeling `happy` `sad` `mad` today?" It would keep the "Are you feeling" and "today?" parts while rotating the middle text between `happy` `sad` and `mad`. I found this code incredibly interesting so I continued to tinker with it and change some properties. Overall these codes and processes I showed and explained are the ways that ive learned my tool and how ive learned my tool.
 ## Skills
 *
 
