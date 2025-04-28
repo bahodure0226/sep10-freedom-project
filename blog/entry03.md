@@ -9,6 +9,7 @@ I am currently finishing up the third stage of the engineering design process, b
 
 ## Skills
 Some skills I learned while working on this blog entry are **creative thinking**, **self-advocacy**, and **consideration**. I have had a problem with my perception that is hard to get over, I can't quite think of anything that I don't see myself being able to comprehend. I used **self-advocacy** and asked a friend for help, they gave me some futuristic show suggestions and said it would help me think more outside of the box. After watching them, it felt easier to come up with these ideas because I could understand them better, so my **creative thinking** improved. I knew that what I would be writing would be read by other people, so I had to have **consideration** on my audience, which would be athletes. Since I am a student athlete, I wanted to come up with ideas that I liked and believed that other athletes would also like. These three skills helped them while writing this blog entry, I learned I have to see something myself to understand it, I can ask help from people because everyone has different strengths, and I should be thinking about who my audience is at all times, whether it be when speaking or writing this blog!
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)

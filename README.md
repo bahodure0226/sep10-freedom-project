@@ -10,7 +10,7 @@ Sports have been around since ancient times as a form of entertainment.
 Many sports are usually played physically such as volleyball and basketball. But where does technology come into play?
 This site will look at the uses of technology within sports, both in the past and with hopes and predictions for the future.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS Animations in order to help me make my website.
 
 ## Links
 
