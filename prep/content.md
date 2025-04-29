@@ -6,7 +6,9 @@ Topic: Sports
 
 ## Part A: existing technology
 * The inventions currently present in the field of sports have 3 categories, Athlete utilities, Fan utilities, and official utilities.
-  * Athlete utilities include 
+  * Athlete utilities include physical, wearable undershirts that can track vitals, gps, and movement. Virtually we have some simple simulations and athlete statistics to allow athletes to envision what they can do on the field and what they have already done.
+  * Fan/outsider utilities include physical cameras all around that show the game real time and virtual sports apps that show details about players, matches, and even bets placed.
+  * Official utilities used to keep the game fair are VARs(Video Assistant Referee), which basically take recordings of the game and can be used to replay parts of the match when there are arguments about referee calls.
 
 ## Part B: possible future technology
 * Idea
