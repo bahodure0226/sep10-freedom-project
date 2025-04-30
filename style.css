@@ -24,5 +24,8 @@
     animation-duration:5s;
     animation-iteration-count:infinite;
     position:fixed;
-
+}
+body {
+    text-align:center;
+    
 }
