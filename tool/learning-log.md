@@ -60,7 +60,7 @@
   *  I learned about transformations and changing shapes by changing the border radius.
   * I tinkered a bit with CSS Animations once again so I wouldn't forget too much, but it was all minor tinkering and refreshing my memory, I did not do try too many new aspects of CSS animate this week.
 
-### 3/23: 
+### 3/23:
 * This week I wanted to see how others used CSS Animations to create projects.
 * I saw this [video](https://www.youtube.com/watch?v=aOI0fpahGr8)
 *   I noticed that some of the features are similar to bootstrap such as the collapse feature.
@@ -99,7 +99,7 @@ div {
   75% {opacity:30%; left:30%; width:300px;}
   100% {opacity:100%; left:45%; width:500px;}
 }
-div {
+.slime {
   font-size:100px;
   text-align:center;
   width: 100px;
@@ -127,7 +127,7 @@ div {
   text-transform: uppercase;
   font-size:36px;
   font-weight:bold;
-  padding-top:200px;  
+  padding-top:200px;
   position:fixed;
   width:100%;
   bottom:45%;

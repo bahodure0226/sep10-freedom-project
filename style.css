@@ -24,10 +24,18 @@
     animation-duration:5s;
     animation-iteration-count:infinite;
     position:fixed;
-    margin-bottom:55px;
 }
 body {
-    text-align:center;
     margin-top:75px;
     margin-bottom:50px;
+}
+.sub {
+  margin-top:100px;
+  margin-bottom:50px;
+  margin-left:100px;
+}
+.para {
+  text-align:center;
+  margin-left:80px;
+
 }
