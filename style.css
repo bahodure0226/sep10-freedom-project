@@ -34,9 +34,15 @@ body {
   margin-bottom:50px;
   margin-left:100px;
 }
-.para {
+#para {
   text-align:center;
   margin-left:150px;
+  margin-top:175px;
+  font-size:20px;
+}
+#right {
+  text-align:center;
+  margin-right:150px;
   margin-top:175px;
   font-size:20px;
 }
