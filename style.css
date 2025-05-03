@@ -88,13 +88,24 @@ img {
   margin-left:10px;
 }
 .sub {
-  margin-left:0px;
+  margin-left:75px;
+}
+.future {
+  font-size:30px;
 }
 }
 @media (min-width:577px){
 .boot {
   margin-left:10px;
 }
+.sub {
+  margin-left:75px;
+}
+.future {
+  font-size:30px;
+}
+.fpart {
+  margin-left:100px;
 }
 @media (min-width:700px){
 .boot {
