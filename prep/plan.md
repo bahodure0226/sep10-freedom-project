@@ -19,12 +19,11 @@ Black
 * 4/27 create basic template with CSS
 * 4/29 insert context into the template
 * 4/29 start using bootstrap grid to organize elements
-* 4/30 use CSS Animations to give life to the page
+* 4/30 use CSS Animations
 * 5/1 responsive mobile page
-* 5/2 start BMVP
 * 5/3 keep working on neatness and organization
-* 5/4 final review
-* 5/5 finish project
+* 5/4 final review of MVP
+* 5/5 turn in MVP
 
 #### MVP
 * 4/26 all content done
