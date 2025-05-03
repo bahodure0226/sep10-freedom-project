@@ -32,23 +32,19 @@ body {
 .sub {
   margin-top:100px;
   margin-bottom:40px;
-  margin-left:130px;
 }
 #para {
   text-align:center;
-  margin-left:75px;
   margin-top:40px;
   font-size:20px;
 }
 .bub {
   margin-top:100px;
   margin-bottom:50px;
-  margin-left:600px;
 }
 #right {
  text-align:center;
- margin-right:150px;
- margin-top:175px;
+ margin-top:40px;
  font-size:20px;
 }
 @keyframes example {
@@ -64,4 +60,7 @@ body {
   animation-name: example;
   animation-duration:0.5s;
   animation-fill-mode:both;
+}
+div {
+  display: inline-block;
 }
