@@ -116,6 +116,15 @@ img {
 .boot {
   margin-left:px;
 }
+.sub {
+  margin-left:200px;
+}
+.bub {
+  margin-left:200px;
+}
+.fpart {
+  margin-left:100px;
+}
 }
 @media (min-width:992px){
 .boot {
