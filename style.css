@@ -87,15 +87,24 @@ img {
 .boot {
   margin-left:10px;
 }
+.sub {
+  margin-left:0px;
+}
 }
 @media (min-width:577px){
-
+.boot {
+  margin-left:10px;
+}
 }
 @media (min-width:700px){
-
+.boot {
+  margin-left:20px;
+}
 }
 @media (min-width:1000px){
-
+.boot {
+  margin-left:600px;
+}
 }
 
 
