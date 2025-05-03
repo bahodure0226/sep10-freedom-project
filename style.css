@@ -97,10 +97,13 @@ img {
 }
 @media (min-width:577px){
 .boot {
-  margin-left:100px;
+  margin-left:200px;
 }
 .sub {
-  margin-left:75px;
+  margin-left:150px;
+}
+.bub {
+  margin-left:150px;
 }
 }
 .future {
