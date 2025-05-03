@@ -63,5 +63,4 @@ body {
   height: 50px;
   animation-name: example;
   animation-duration:0.5s;
-  animation-fill-mode:both;
 }
