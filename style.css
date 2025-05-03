@@ -125,12 +125,12 @@ img {
   font-size:40px;
 }
 }
-@media (min-width:1200px){
+@media (min-width:992px){
 .boot {
   margin-left:600px;
 }
 .sub {
-  margin-left:100px;
+  margin-left:50px;
 }
 .bub {
   margin-left:100px;
