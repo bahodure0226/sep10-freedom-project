@@ -63,6 +63,11 @@ body {
   animation-duration:0.5s;
   animation-fill-mode:both;
 }
+.images {
+  text-align:center;
+}
+
+}
 .future {
   text-align:center;
   margin-top:50px;
