@@ -78,7 +78,6 @@ img {
   margin-top:150px;
   text-align:center;
   font-size:20px;
-  margin-left:175px;
 }
 }
 .boot {
@@ -109,12 +108,10 @@ img {
 .future {
   font-size:30px;
 }
-.fpart {
-  margin-left:75px;
 }
 @media (min-width:768px){
 .boot {
-  margin-left:px;
+  margin-left:500px;
 }
 .sub {
   margin-left:200px;
@@ -122,23 +119,23 @@ img {
 .bub {
   margin-left:200px;
 }
-.fpart {
-  margin-left:100px;
+
 }
 .future {
   font-size:40px;
 }
 }
-@media (max-width:1200px){
+@media (min-width:1200px){
 .boot {
-  margin-left:600px;
+  margin-left:1000px;
 }
 .sub {
-  margin-left:50px;
+  margin-left:100px;
 }
 .bub {
-  margin-left:50px;
+  margin-left:100px;
 }
+
 }
 
 
