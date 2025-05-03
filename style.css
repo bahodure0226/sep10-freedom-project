@@ -102,11 +102,12 @@ img {
 .sub {
   margin-left:75px;
 }
+}
 .future {
   font-size:30px;
 }
 .fpart {
-  margin-left:
+  margin-left:75px;
 }
 @media (min-width:768px){
 .boot {
