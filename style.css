@@ -129,7 +129,7 @@ img {
   font-size:40px;
 }
 }
-@media (min-width:992px){
+@media (max-width:1200px){
 .boot {
   margin-left:600px;
 }
