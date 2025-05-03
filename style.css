@@ -111,6 +111,12 @@ img {
 .boot {
   margin-left:20px;
 }
+.sub {
+  margin-left:175px;
+}
+.bub {
+  margin-left:175px;
+}
 }
 @media (min-width:1000px){
 .boot {
