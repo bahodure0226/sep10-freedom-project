@@ -85,13 +85,13 @@ img {
 }
 @media (max-width: 576px) {
 .boot {
-  margin-left:50px;
+  margin-left:150px;
 }
 .sub {
   margin-left:75px;
 }
 .bub {
-  margin-left:75px;
+  margin-left:100px;
 }
 .future {
   font-size:30px;
@@ -102,10 +102,10 @@ img {
   margin-left:200px;
 }
 .sub {
-  margin-left:150px;
+  margin-left:100px;
 }
 .bub {
-  margin-left:150px;
+  margin-left:120px;
 }
 .future {
   font-size:30px;
