@@ -23,7 +23,6 @@
     animation-name: test;
     animation-duration:5s;
     position:absolute;
-    animation-fill-mode:end;
 }
 body {
     margin-top:75px;
