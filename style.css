@@ -113,13 +113,13 @@ img {
 }
 @media (min-width:768px){
 .boot {
-  margin-left:300px;
+  margin-left:400px;
 }
 .sub {
   margin-left:200px;
 }
 .bub {
-  margin-left:200px;
+  margin-left:220px;
 }
 .future {
   font-size:40px;
