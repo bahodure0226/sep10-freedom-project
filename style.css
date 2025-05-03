@@ -83,7 +83,40 @@ img {
 .boot {
   margin-left:600px;
 }
-
+@media (max-width: 576px) {
+.boot {
+  margin-left:10px;
+}
+.sub {
+  margin-left:75px;
+}
+.future {
+  font-size:30px;
+}
+}
+@media (min-width:577px){
+.boot {
+  margin-left:10px;
+}
+.sub {
+  margin-left:75px;
+}
+.future {
+  font-size:30px;
+}
+.fpart {
+  margin-left:
+}
+@media (min-width:700px){
+.boot {
+  margin-left:20px;
+}
+}
+@media (min-width:1000px){
+.boot {
+  margin-left:600px;
+}
+}
 
 
 
