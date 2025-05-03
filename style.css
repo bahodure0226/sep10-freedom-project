@@ -85,7 +85,7 @@ img {
 }
 @media (max-width: 576px) {
 .boot {
-  margin-left:100px;
+  margin-left:50px;
 }
 .sub {
   margin-left:75px;
@@ -99,10 +99,10 @@ img {
   margin-left:200px;
 }
 .sub {
-  margin-left:200px;
+  margin-left:150px;
 }
 .bub {
-  margin-left:200px;
+  margin-left:150px;
 }
 }
 .future {
@@ -117,7 +117,7 @@ img {
   margin-left:200px;
 }
 .bub {
-  margin-left:500px;
+  margin-left:200px;
 }
 
 }
@@ -125,7 +125,7 @@ img {
   font-size:40px;
 }
 }
-@media (max-width:1200px){
+@media (min-width:1200px){
 .boot {
   margin-left:600px;
 }
