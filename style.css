@@ -117,7 +117,7 @@ img {
   margin-left:200px;
 }
 .bub {
-  margin-left:200px;
+  margin-left:500px;
 }
 
 }
@@ -125,9 +125,9 @@ img {
   font-size:40px;
 }
 }
-@media (min-width:1200px){
+@media (max-width:1200px){
 .boot {
-  margin-left:1000px;
+  margin-left:600px;
 }
 .sub {
   margin-left:100px;
