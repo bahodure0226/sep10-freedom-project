@@ -63,8 +63,10 @@ body {
   animation-duration:0.5s;
   animation-fill-mode:both;
 }
-.images {
+img {
   text-align:center;
+  width:1000px;
+  height:600px;
 }
 
 }
