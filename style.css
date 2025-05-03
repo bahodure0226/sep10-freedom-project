@@ -86,7 +86,7 @@ img {
 }
 @media (max-width: 576px) {
 .boot {
-  margin-left:10px;
+  margin-left:50px;
 }
 .sub {
   margin-left:75px;
