@@ -136,6 +136,17 @@ img {
   margin-left:100px;
 }
 }
+@media (min-width:1200px){
+  .boot {
+    margin-left:1000px;
+  }
+  .sub {
+    margin-left:150px;
+  }
+  .bub {
+    margin-left:125px;
+  }
+  }
 
 
 
