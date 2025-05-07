@@ -53,7 +53,7 @@ Black
 | Jehan  |   |
 | Cammi  |   |
 | Edward  |   |
-| Benson  |   |
+| Benson  | I like the organization of website |I think you need more colors and my eyes hurt from seeing white
 |   |   |
 |   |   |
 
