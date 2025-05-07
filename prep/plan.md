@@ -60,4 +60,4 @@ Black
 
 * Most important- add colors and make my site less bland
 * add some cool logos maybe
-* 
+* make a cool animation about sports
