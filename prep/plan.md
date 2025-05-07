@@ -35,9 +35,9 @@ Black
 ---
 
 #### Beyond MVP
-* align everything
 * change styles
 * make cool background
+* fonts
 
 
 
