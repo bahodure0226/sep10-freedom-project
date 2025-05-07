@@ -46,15 +46,18 @@ Black
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Jehan  |   |
+| Cammi  |   |
+| Edward  |   |
+| Benson  |   |
 |   |   |
 |   |   |
 
--->
+
+* Most important- add colors and make my site less bland
+* add some cool logos maybe
+* 
