@@ -11,7 +11,7 @@ White
 Black
 
 ## Fonts
-* Times New Roman
+* Tinos
 
 ## Timeline
 * 4/25 Create Content
