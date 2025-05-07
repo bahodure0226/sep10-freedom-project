@@ -156,6 +156,11 @@ img {
   .white {
     color:white;
   }
+  body {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
 
 
 
