@@ -6,7 +6,7 @@
 
 ## Colors
 * Black
-* #BCB88A
+* #BCB88A(sage)
 * White
 
 
