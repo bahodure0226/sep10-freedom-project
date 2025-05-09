@@ -5,10 +5,10 @@
 * [Desktop](../img/desktop.png)
 
 ## Colors
-Blue
-Yellow
-White
-Black
+* Black
+* #BCB88A(sage)
+* White
+
 
 ## Fonts
 * Tinos
