@@ -51,7 +51,7 @@ Black
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Jehan  |   |
-| Cammi  |   |
+| Cammi  |  The navbar turning into a dropdown is nice | You could add colors to the background to make it less plain!
 | Edward  |   |
 | Benson  | I like the organization of website |I think you need more colors and my eyes hurt from seeing white
 |   |   |
