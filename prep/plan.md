@@ -5,9 +5,9 @@
 * [Desktop](../img/desktop.png)
 
 ## Colors
-Black
-#BCB88A
-White
+* Black
+* #BCB88A
+* White
 
 
 ## Fonts
