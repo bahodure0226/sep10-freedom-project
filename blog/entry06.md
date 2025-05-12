@@ -28,6 +28,7 @@ I fixed this problem across multiple media queries and it completely fixed my pr
 * I am currently on the last few stages of the EDP, I created my prototype and tested it, finally, I had it evaluated by peers and made improvements to it afterwards. I am done with the EDP for my Freedom Project, but I may have more to improve after we proceed with our in class presentations and SEP wide presentations.
 
 ### Skills
+Some skills I have improved on or learned are **_improvising_**, **_planning_**, and **_collaborating_**. I improved on my planning by giving myself leeway for the timeline, I made a simple and easy to follow plan so even if I was busy on one of my planned days, I could make up for it by shifting the workload since I spread it out pretty evenly. I was able to improvise greatly by changing how I formatted the image when I could not figure out how to center it with the previous format I used. The collaboration skill was useful when we went around and shared our projects while making comments to other people, it helped me improve the color scheme of my website from a bland white background to a more colorful website.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
