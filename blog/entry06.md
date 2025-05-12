@@ -2,7 +2,7 @@
 ##### 5/12/25
 
 ### MVP
-* Before starting my MVP, I made a plan page which really helped me stay on track throughout my project. Although I did not follow the plan the whole time I was able to complete my MVP because I changed my workload for different days when I couldn't do the part that I had planned on a certain day. While working on my MVP, I included the code from my previous test projects in my terminal, this made coding a lot easier since I had most of it planned out. The content of my MVP was mostly written without a plan besides for the inventions which I had already brainstormed a while ago. In my project I had CSS, HTML, bootstrap components, grid, and also my tool animate CSS. One challenge I had was trying to make my page responsive to different screen sizes, this would often happen:
+* Before starting my MVP, I made a plan page which really helped me stay on track throughout my project. Although I did not follow the plan the whole time I was able to complete my MVP because I changed my workload for different days when I couldn't do the part that I had [planned](../prep/plan.md) on a certain day. While working on my MVP, I included the code from my previous test projects in my terminal, this made coding a lot easier since I had most of it planned out. The content of my MVP was mostly written without a plan besides for the inventions which I had already brainstormed a while ago. In my project I had CSS, HTML, bootstrap components, grid, and also my tool animate CSS. One challenge I had was trying to make my page responsive to different screen sizes, this would often happen:
 ```CSS
 @media (min-width:768px){
 .boot {
@@ -25,9 +25,10 @@ I fixed this problem across multiple media queries and it completely fixed my pr
 * ![image](../img/example1.png)
 * The takeaways I had from these two challenges were that one, I should count the amount of opening and closing tags when using CSS, especially on media queries, and two, if I can't find a solution to something, find an alternative(like making the width take the full screen so I don't have to try and center it for each different size). This MVP helped me learn a good amount.
 ### Engineering Design Process
-
+* I am currently on the last few stages of the EDP, I created my prototype and tested it, finally, I had it evaluated by peers and made improvements to it afterwards. I am done with the EDP for my Freedom Project, but I may have more to improve after we proceed with our in class presentations and SEP wide presentations.
 
 ### Skills
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
