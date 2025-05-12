@@ -23,7 +23,9 @@
 I fixed this problem across multiple media queries and it completely fixed my problems since all of them were due to this exact problem.
 * Another challenge I had was pretty simple, my images wouldn't stay centered when I tried to make them take a certain width of the page, it was always looking really ugly and messy. I had no fix to this so I decided to just let it take the whole width of the page because then it would stay centered no matter what size the screen was.
 * ![image](../img/example1.png)
+* The takeaways I had from these two challenges were that one, I should count the amount of opening and closing tags when using CSS, especially on media queries, and two, if I can't find a solution to something, find an alternative(like making the width take the full screen so I don't have to try and center it for each different size). This MVP helped me learn a good amount.
 ### Engineering Design Process
+
 
 ### Skills
 
