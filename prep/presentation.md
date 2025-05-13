@@ -4,13 +4,19 @@
 * 
 
 ## Product
-* 
+* Demo/Link to my website
 
 ## Process
-* 
+* Code snippets of my tool(Animate CSS)
+* MVP
+* feedback from my peers
+* challenge
+* plan
 
 ## Conclusion
-* 
+* Takeaways
+* Work with what you have
+* get feedback from others, many brains are better than one
 
 <!-- EXAMPLE
 
