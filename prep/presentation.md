@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you ever wanted to train with the best athletes? As technology continues to improve, you may be able to do exactly that.
 
 ## Product
 * Demo/Link to my website
