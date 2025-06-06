@@ -20,9 +20,12 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS
 
 ## Implications
 ##### PROS
-* 
+* Culture: it will make the field of sports much more popular, leading to the global population becoming much more athletic, healthy, and living longer.
+* Individual: This will give individuals with a passion for sports a way to express themselves, even if nobody else wants to put in the work, they can use this invention to practice as much as they want on any level.
+* Big syems(sports field): This would increase the level of competition and play in sports, giving people more entertainment and bringing popularity to all sports, making them widespread and more needed.
 ##### CONS
-* 
+* Finance(personal/corporate): This would give the people who manage sports, host sports, and creators of sports apps an incredible boost in profit with the popularity of sports rising greatly. Possibly leading to an inbalance of economy in favor of sports.
+* Relationships: This may cause people to overwork themselves, spending too much time with holograms, causing them to be detached to others and possible become socially inept.
 
 
 ## Blog
