@@ -1,7 +1,13 @@
 # Entry 7
-##### X/X/XX
+##### 6/5/25
 
-Text
+### Context
+After finishing our freedom projects, we had to present them to our classes and also to upper classmen who were judging our projects. The presentations in class were about our process in creating our projects, the troubles we faced, what we were proud of, how our websites worked, the purpose, and takeaways. This presentation was a longer one, while the elevator-pitch was a one minute presentation in the cafeteria to our upperclassmen and other students and teachers. I did my [elevator pitch](https://docs.google.com/document/d/136ZRtreaxM23Ucdyi1N1qvTNFaw0xZh1IMcy85BdcBE/edit?tab=t.0#bookmark=id.qffexdpwh86b) first because I was one of the last ones to present in class. My elevator pitch was pretty easy to do, it was a short presentation where I would just give a run-down of the main points for my project, the context of how I came up with it, what we currently had in the field I was studying, and what I planned for the future. In contrast, my in class [presentation](https://docs.google.com/presentation/d/1jJZoE8Pgm8pYTfDr0qfEXtR4iKgPAsS63QI5BjHhX70/edit?slide=id.p#slide=id.p) was a lot harder. Before I had went up, it seemed easy and I was so ready to present my work, but as I kept replaying my presentation in my head it was more and more nerve-wracking, everything I had planned was gone from my mind and I just freestyled my presentation which I believe went by a bit too quickly than I anticipated.
+
+### Takeaways
+* From my elevator pitch, one I had were that speaking loudly is very beneficial, since there were many others presenting around me, being louder would catch the attention of my viewers and keep their focus on me. Explaining my project was pretty easy because I just had to tell my viewers everything about my project, which of course I knew because I worked hard on it. Another takeaway I had from the elevator pitch was that creativity is a big criteria for my freedom project, I realized that those around me with more vibrant colors and interesting, eye-catching websites got greater scores than me while those with more formal, less colorful websites, were graded lower on creativity.
+* From my in class presentation, one takeaway I had was that when there is a big crowd watching, it is a lot harder for me to present, so I should start working on speaking loudly and talking to random people on the daily so I can get more used to this for my future presentations. Another takeaway I had was that waiting too long for the right moment will make you wait forever and cause more trouble for you than if you were to just go and do something, if I had chosen to go first, I believe my presentation would have been a lot greater, more planned out, and would have caused me less nerves. Waiting too long made me even more nervous after seeing good presentations from others that made me lose confidence in my own presentation that I kept thinking about too much.
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
