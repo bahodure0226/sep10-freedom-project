@@ -14,9 +14,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS
 
 ## Links
 
-[Product]()
+[Product](https://bahodure0226.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1jJZoE8Pgm8pYTfDr0qfEXtR4iKgPAsS63QI5BjHhX70/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
@@ -26,7 +26,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS
 
 
 ## Blog
-Below you will find my blog about how I made my project.
+Below you will find my blogs about what steps I took to make my project, what challenges I faced, and the skills that I have gained throughout the process.
 
 * [Entry 1](blog/entry01.md)
 * [Entry 2](blog/entry02.md)
